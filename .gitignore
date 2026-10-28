@@ -1,0 +1,11 @@
+# Terraform directories and files
+.terraform/
+
+# State files & other
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+
+
+
